@@ -29,3 +29,8 @@ git add .
 git commit -m 'MENSAGEM'
 git push origin master
 
+
+----
+#conferir commit's
+git log --online
+
